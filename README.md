@@ -22,7 +22,9 @@ Launch jupyter notebook from terminal:
 ```
 jupyter notebook
 ```
-If the installation was successful, you should be able to create new notebook with Julia kernel (the upper right corner) .
+If the installation was successful, you should be able to create new notebook with Julia kernel (the upper right corner). This is presented on image below:
+
+![New julia notebook](https://raw.githubusercontent.com/edd26/betti-from-file/master/docs/new_julia_notebook.png)
 
 ### Usage
 
