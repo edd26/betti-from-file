@@ -40,3 +40,4 @@ When the script is run for the first time, a kernel loading error may occur (thi
 because your Julia version may be different from the Julia version with which the notebook
 was created). Choose your Julia version and try to launch the kernel.
 
+![Kernel error](https://github.com/edd26/betti-from-file/blob/master/docs/kernel_error.png)
