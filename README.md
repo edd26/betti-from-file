@@ -32,6 +32,11 @@ Launch jupyter notebook from terminal:
 ```
 jupyter notebook
 ```
-Then run 'get_betti_from_file.ipynb'. Packages required for running the code 
-can be installed with code included in the notebook file. 
+Then open 'get_betti_from_file.ipynb'. Packages required for running the notebook 
+script can be installed with code included in the notebook file. 
+
+### Notice
+When the script is run for the first time, a kernel loading error may occur (this is
+because your Julia version may be different from the Julia version with which the notebook
+was created). Choose your Julia version and try to launch the kernel.
 
