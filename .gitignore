@@ -1,1 +1,2 @@
-*.ipynb_ckeckpoints* 
+# Ignore Python notebook checkpoints
+.ipynb_checkpoint*
